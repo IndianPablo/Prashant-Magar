@@ -315,6 +315,10 @@ body{
     width: 50%;
     background: #30dd6d;
 }
+.skills .content .col-right .bar .php:before{
+    width: 50%;
+    background: #6d7eb8;
+}
 .skills .content .col-right .bar .bootstrap:before{
     width: 65%;
     background: #6d7eb8;
